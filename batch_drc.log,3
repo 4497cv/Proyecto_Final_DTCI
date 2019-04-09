@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ESP32_ENTREGABLE_1B_VILLARREAL_HERNANDEZ_707560.brd )
 (    Software Version : 17.2S050                                      )
-(    Date/Time        : Sun Apr 07 20:23:45 2019                      )
+(    Date/Time        : Mon Apr 08 19:48:05 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  84
+ ..... Total number of DRC errors  61
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************
