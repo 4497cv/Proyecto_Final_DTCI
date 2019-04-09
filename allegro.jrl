@@ -14886,4 +14886,199 @@
 \i (01:10:15) QtSignal 1097.11 485.11 -39.6863
 \i (01:10:15) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 668 241 748 324 1 0 +
 \i (01:10:15) QtSignal 0 1097.11 491.684 -39.6863
-\
+\i (01:10:18) QtSignal pcb3dViewer pcb3dViewer closed
+\i (01:10:18) zoom out 1 
+\i (01:10:18) setwindow pcb
+\i (01:10:18) zoom out 68.806 75.588
+\i (01:10:18) trapsize 1293
+\i (01:10:20) pick grid 123.649 44.287
+\t (01:10:20) last pick:  123.500 44.500
+\i (01:10:21) roam y 96 
+\i (01:10:21) roam y 96
+\i (01:10:21) roam y 96 
+\i (01:10:21) roam y 96
+\i (01:10:22) roam y -96 
+\i (01:10:22) roam y -96
+\i (01:10:23) zoom in 1 
+\i (01:10:23) setwindow pcb
+\i (01:10:23) zoom in 100.367 26.437
+\i (01:10:23) trapsize 647
+\i (01:10:26) drc update 
+\t (01:10:26) Performing DRC...
+\t (01:10:26) Multithreaded DRC update (4 threads).
+\t (01:10:26) DRC done; 61 errors detected.
+\i (01:10:26) generaledit 
+\i (01:10:30) zoom out 1 
+\i (01:10:30) setwindow pcb
+\i (01:10:30) zoom out 106.576 42.864
+\i (01:10:30) trapsize 1293
+\i (01:10:31) zoom out 1 
+\i (01:10:31) setwindow pcb
+\i (01:10:31) zoom out 106.576 42.864
+\i (01:10:31) trapsize 2587
+\i (01:10:32) drag_start grid -36.739 115.297
+\i (01:10:32) drag_stop 154.175 -34.227
+\i (01:10:38) pick grid 124.684 -67.339
+\t (01:10:38) last pick:  124.500 -67.500
+\i (01:10:38) drag_start grid -33.117 146.857
+\i (01:10:38) drag_stop 157.279 -38.883
+\i (01:10:43) drc update 
+\t (01:10:43) Performing DRC...
+\t (01:10:44) Multithreaded DRC update (4 threads).
+\t (01:10:44) DRC done; 61 errors detected.
+\i (01:10:44) generaledit 
+\i (01:10:47) status 
+\i (01:10:47) generaledit 
+\i (01:11:00) setwindow form.status
+\i (01:11:00) FORM status done  
+\i (01:11:00) setwindow pcb
+\i (01:11:00) zoom in 1 
+\i (01:11:00) setwindow pcb
+\i (01:11:00) zoom in 95.193 62.007
+\i (01:11:00) trapsize 1293
+\i (01:11:00) zoom in 1 
+\i (01:11:00) setwindow pcb
+\i (01:11:00) zoom in 95.452 61.231
+\i (01:11:00) trapsize 647
+\i (01:11:00) zoom in 1 
+\i (01:11:00) setwindow pcb
+\i (01:11:00) zoom in 95.453 61.232
+\i (01:11:00) trapsize 323
+\i (01:11:01) zoom out 1 
+\i (01:11:01) setwindow pcb
+\i (01:11:01) zoom out 94.547 60.456
+\i (01:11:01) trapsize 647
+\i (01:11:01) zoom out 1 
+\i (01:11:01) setwindow pcb
+\i (01:11:01) zoom out 94.419 60.327
+\i (01:11:01) trapsize 1293
+\i (01:11:01) pick grid 113.303 34.975
+\t (01:11:01) last pick:  113.500 35.000
+\i (01:11:02) zoom in 1 
+\i (01:11:02) setwindow pcb
+\i (01:11:02) zoom in 91.055 16.608
+\i (01:11:02) trapsize 647
+\i (01:11:02) zoom in 1 
+\i (01:11:02) setwindow pcb
+\i (01:11:02) zoom in 90.150 15.962
+\i (01:11:02) trapsize 323
+\i (01:11:02) zoom in 1 
+\i (01:11:02) setwindow pcb
+\i (01:11:02) zoom in 90.086 15.962
+\i (01:11:02) trapsize 162
+\i (01:11:03) zoom out 1 
+\i (01:11:03) setwindow pcb
+\i (01:11:03) zoom out 89.924 19.939
+\i (01:11:03) trapsize 323
+\i (01:11:03) zoom out 1 
+\i (01:11:03) setwindow pcb
+\i (01:11:03) zoom out 89.731 19.488
+\i (01:11:03) trapsize 647
+\i (01:11:04) zoom out 1 
+\i (01:11:04) setwindow pcb
+\i (01:11:04) zoom out 62.828 20.134
+\i (01:11:04) trapsize 1293
+\i (01:11:05) zoom in 1 
+\i (01:11:05) setwindow pcb
+\i (01:11:05) zoom in 44.460 1.249
+\i (01:11:05) trapsize 647
+\i (01:11:05) zoom in 1 
+\i (01:11:05) setwindow pcb
+\i (01:11:05) zoom in 44.460 1.250
+\i (01:11:05) trapsize 323
+\i (01:11:07) save 
+\i (01:11:08) fillin yes 
+\i (01:11:08) generaledit 
+\i (01:11:08) zoom out 1 
+\i (01:11:08) setwindow pcb
+\i (01:11:08) zoom out 56.360 -1.596
+\i (01:11:08) trapsize 647
+\i (01:11:08) zoom out 1 
+\i (01:11:08) setwindow pcb
+\i (01:11:08) zoom out 55.973 -1.466
+\i (01:11:08) trapsize 1293
+\i (01:11:09) zoom in 1 
+\i (01:11:09) setwindow pcb
+\i (01:11:09) zoom in 72.787 -0.949
+\i (01:11:09) trapsize 647
+\i (01:11:11) roam y -96 
+\i (01:11:11) roam y -96
+\i (01:11:11) roam y -96 
+\i (01:11:11) roam y -96
+\i (01:11:11) roam y -96 
+\i (01:11:11) roam y -96
+\i (01:11:14) zoom in 1 
+\i (01:11:14) setwindow pcb
+\i (01:11:14) zoom in 94.388 29.671
+\i (01:11:14) trapsize 323
+\i (01:11:14) zoom in 1 
+\i (01:11:14) setwindow pcb
+\i (01:11:14) zoom in 94.582 29.412
+\i (01:11:14) trapsize 162
+\i (01:11:15) zoom in 1 
+\i (01:11:15) setwindow pcb
+\i (01:11:15) zoom in 94.679 28.992
+\i (01:11:15) trapsize 81
+\i (01:11:15) zoom in 1 
+\i (01:11:15) setwindow pcb
+\i (01:11:15) zoom in 94.000 29.105
+\i (01:11:15) trapsize 40
+\i (01:11:16) roam x 96 
+\i (01:11:16) roam x 96
+\i (01:11:17) roam x 96 
+\i (01:11:17) roam x 96
+\i (01:11:17) roam x 96 
+\i (01:11:17) roam x 96
+\i (01:11:17) roam x 96 
+\i (01:11:17) roam x 96
+\i (01:11:17) roam x 96 
+\i (01:11:17) roam x 96
+\i (01:11:20) add connect 
+\t (01:11:20) Pick first element.
+\i (01:11:21) pick grid 97.707 29.598
+\t (01:11:21) last pick:  97.500 29.500
+\t (01:11:21) last pick:  97.725 29.005
+\t (01:11:21) Target Symbol Pin is defined on TOP.
+\t (01:11:21) last pick:  97.725 29.005
+\i (01:11:33) prepopup 97.691 30.487
+\i (01:11:33) oops 
+\t (01:11:33) last pick:  97.725 29.005
+\t (01:11:34) Pick first element.
+\i (01:11:35) zoom out 1 
+\i (01:11:35) setwindow pcb
+\i (01:11:35) zoom out 96.454 32.039
+\i (01:11:35) trapsize 81
+\i (01:11:35) zoom out 1 
+\i (01:11:35) setwindow pcb
+\i (01:11:35) zoom out 96.308 31.652
+\i (01:11:35) trapsize 162
+\i (01:11:39) zoom out 1 
+\i (01:11:39) setwindow pcb
+\i (01:11:39) zoom out 97.763 29.227
+\i (01:11:39) trapsize 323
+\i (01:11:42) zoom out 1 
+\i (01:11:42) setwindow pcb
+\i (01:11:42) zoom out 90.456 20.755
+\i (01:11:42) trapsize 647
+\i (01:11:42) zoom out 1 
+\i (01:11:42) setwindow pcb
+\i (01:11:42) zoom out 90.456 20.625
+\i (01:11:42) trapsize 1293
+\i (01:11:42) zoom in 1 
+\i (01:11:42) setwindow pcb
+\i (01:11:42) zoom in 89.680 20.884
+\i (01:11:42) trapsize 647
+\i (01:11:43) roam y -96 
+\i (01:11:43) roam y -96
+\i (01:11:43) roam x -96 
+\i (01:11:43) roam x -96
+\i (01:11:44) roam y -96 
+\i (01:11:44) roam y -96
+\i (01:11:44) roam y -96 
+\i (01:11:44) roam y -96
+\i (01:11:44) roam y -96 
+\i (01:11:44) roam y -96
+\i (01:12:48) exit 
+\e (01:12:49) Do you want to save the changes you made to C:/Users/ie707560/Desktop/Proyecto_Final_DCTI/ESP32_ENTREGABLE_1B_VILLARREAL_HERNANDEZ_707560.brd?
+\i (01:12:51) fillin yes 
+\t (01:12:52)     Journal end - Mon Apr 08 19:50:31 2019
